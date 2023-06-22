@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#main_container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.margin_bottom {
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.flexwrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.generic_photo_style{
+    display: inline-block;
+    background-color: white;
+    align-items: center;
+    width: 30%;
+}
+
+.borders{
+    border: 1px solid #868181;
+    padding: 5 px;
+}
+
+.h200{
+    height: 400px;
+}
+
+.ml_5{
+    margin-left: 5px;
+}
+
+.mr_15{
+    margin-right: 15px;
+}
+
+.grey_title{
+    color: darkslategrey;
+}
+
+.redprice{
+    color: crimson;
+}
+
+
+
+
+
